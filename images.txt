@@ -1,1 +1,12 @@
-canal/canal-server:v1.1.7
+# mysql
+mysql:8.0.38
+# redis
+redis:6.2.6
+# rabbitmq
+rabbitmq:3.8.34-management
+# mongodb
+mongo:4.4.29
+# es
+elasticsearch:7.17.22
+# kibana
+kibana:7.17.22
